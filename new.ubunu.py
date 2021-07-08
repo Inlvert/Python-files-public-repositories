@@ -1,1 +1,2 @@
-print('rfgyh')
+import sys
+print('\n PYTHONPATH', sys.path)
